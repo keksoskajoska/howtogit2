@@ -1,3 +1,6 @@
 # howtogit2
 I am just a readme....
 Please don't delete me!
+
+Ohh god...
+That command didn't do the job.
