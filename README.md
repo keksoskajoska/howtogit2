@@ -4,3 +4,6 @@ Please don't delete me!
 
 Ohh god...
 That command didn't do the job.
+
+Hooray!
+I found the commands. Hopefully the next ones will not be this difficult...
